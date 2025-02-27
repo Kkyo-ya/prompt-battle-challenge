@@ -1,1 +1,35 @@
+[
+    {
+        "id": 1,
+        "level": "easy",
+        "title": "Basic Prompt Completion",
+        "description": "Complete the following prompt to generate a creative short story:",
+        "prompt": "Once upon a time in a distant galaxy, a lone astronaut discovered...",
+        "expected_output": "A short story between 50-100 words."
+    },
+    {
+        "id": 2,
+        "level": "medium",
+        "title": "Optimizing a Prompt",
+        "description": "Rewrite the following prompt to make it clearer and more specific:",
+        "prompt": "Tell me something about history.",
+        "expected_output": "A refined prompt that asks for a specific historical event, figure, or period."
+    },
+    {
+        "id": 3,
+        "level": "hard",
+        "title": "Multi-Step Prompt Engineering",
+        "description": "Design a prompt that helps generate a detailed business report with structured sections.",
+        "prompt": "Your company wants to analyze last year's financial performance. Design a prompt that ensures the AI provides an in-depth report, including revenue trends, challenges, and recommendations.",
+        "expected_output": "A well-structured prompt that includes sections like Revenue Analysis, Challenges, and Recommendations."
+    },
+    {
+        "id": 4,
+        "level": "bonus",
+        "title": "Creative Role-Playing Prompt",
+        "description": "Create a prompt that instructs the AI to act as a famous historical figure and respond in character.",
+        "prompt": "Imagine you are Albert Einstein explaining the theory of relativity to a child. Write a prompt that ensures an engaging, simple, and educational response.",
+        "expected_output": "A role-playing prompt where the AI responds as Albert Einstein in an easy-to-understand way."
+    }
+]
 
